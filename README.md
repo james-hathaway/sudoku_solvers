@@ -1,1 +1,1 @@
-# sudoku_solvers
+This repository contains the sudoku solvers formatted around the sudoku.txt file present. If you download any version of the program and have sudoku.txt in the same directory it should run and compile. Each program reads in the sudoku boards and solves all 50 versions of it before returning to you the solved boards and how long it took.
